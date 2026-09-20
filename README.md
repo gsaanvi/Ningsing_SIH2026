@@ -5,7 +5,7 @@
 Built for **Smart India Hackathon 2026** — Problem Statement **SIH26003**
 Team **CTRL Freaks**
 
-🔗 **Live Demo:** [Add your GitHub Pages link here once deployed]
+🔗 **Live Demo:** https://gsaanvi.github.io/Ningsing_SIH2026/
 
 ---
 
